@@ -1,13 +1,13 @@
-package com.probank.app;
+package com.probank.authservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProBankAppApplication {
+public class AuthServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProBankAppApplication.class, args);
+		SpringApplication.run(AuthServiceApplication.class, args);
 	}
 
 }

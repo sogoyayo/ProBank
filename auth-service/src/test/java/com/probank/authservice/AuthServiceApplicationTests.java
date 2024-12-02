@@ -1,10 +1,10 @@
-package com.probank.app;
+package com.probank.authservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProBankAppApplicationTests {
+class AuthServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
